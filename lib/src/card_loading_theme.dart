@@ -33,7 +33,7 @@ class CardLoadingTheme {
   });
 
   static const CardLoadingTheme defaultTheme = CardLoadingTheme(
-    colorOne: const Color(0xFFE5E5E5),
-    colorTwo: const Color(0xFFF0F0F0),
+    colorOne: const Color(0xFF006880),
+    colorTwo: const Color(0xFFB2B3B4),
   );
 }
